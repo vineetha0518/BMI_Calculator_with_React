@@ -8,15 +8,15 @@ To install this project, follow these steps:
 
 - Clone the repository: 
 
-        git clone https://github.com/OviSarkar62/BMI_Calculator_with_React.git
+      git clone https://github.com/OviSarkar62/BMI_Calculator_with_React.git
 
 - Navigate to the project directory: 
  
-        cd BMI_Calculator_with_React
+      cd BMI_Calculator_with_React
 
 - Install dependencies: 
 
-        npm install
+      npm install
 
 ## Usage
 
@@ -24,10 +24,10 @@ To run the project locally, follow these steps:
 
 - Navigate to the project directory: 
 
-        cd BMI_Calculator_with_React
+      cd BMI_Calculator_with_React
         
 - Run the project: 
 
-        npm start
+      npm start
         
 - Open http://localhost:3000 in your browser to view the app.

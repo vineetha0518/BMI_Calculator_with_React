@@ -6,16 +6,28 @@ This is a simple BMI Calculator built using React. It allows users to input thei
 
 To install this project, follow these steps:
 
-- Clone the repository: git clone https://github.com/OviSarkar62/BMI_Calculator_with_React.git
+- Clone the repository: 
 
-- Navigate to the project directory: cd BMI_Calculator_with_React
+        git clone https://github.com/OviSarkar62/BMI_Calculator_with_React.git
 
-- Install dependencies: npm install
+- Navigate to the project directory: 
+ 
+        cd BMI_Calculator_with_React
+
+- Install dependencies: 
+
+        npm install
 
 ## Usage
 
 To run the project locally, follow these steps:
 
-- Navigate to the project directory: cd BMI_Calculator_with_React
-- Run the project: npm start
+- Navigate to the project directory: 
+
+        cd BMI_Calculator_with_React
+        
+- Run the project: 
+
+        npm start
+        
 - Open http://localhost:3000 in your browser to view the app.

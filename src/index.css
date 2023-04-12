@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background: #3b3f46;
 }
 
 .App {
@@ -7,7 +8,6 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: grey;
   font-family: Arial, sans-serif;
 }
 
@@ -15,16 +15,16 @@ body {
   width: 400px;
   height: 450px;
   padding: 20px;
-  background: white;
-  border-radius: 50px;
-  border: 2px solid #000;
+  background: #272838;
+  border-radius: 40px;
+  border: 2px solid #2c2c2c;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
 
 h2 {
   margin-top: 0;
-  color: #333;
+  color: whitesmoke;
 }
 
 form {
@@ -40,7 +40,7 @@ div {
 label {
   display: block;
   margin-bottom: 5px;
-  color: #333;
+  color: #fff;
   font-size: 1.2rem;
   font-weight: bold;
 }
@@ -66,22 +66,22 @@ button {
 }
 
 .btn {
-  background: gray;
+  background: #4285f4;
   color: #fff;
 }
 
 .btn:hover {
-  background: black;
+  background: #1669b5;
 }
 
 .btn-outline {
-  background: none;
-  border: 2px solid black;
-  color: black;
+  background: #fd0e35;
+  border: 2px solid white;
+  color: white;
 }
 
 .btn-outline:hover {
-  background: black;
+  background: grey;
   color: #fff;
 }
 
@@ -94,11 +94,11 @@ h3 {
   margin: 0;
   font-size: 2.5rem;
   font-weight: bold;
-  color: #333;
+  color: #fff;
 }
 
 p {
   margin: 0;
   font-size: 1.5rem;
-  color: #333;
+  color: #fff;
 }

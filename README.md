@@ -31,3 +31,7 @@ To run the project locally, follow these steps:
       npm start
         
 - Open http://localhost:3000 in your browser to view the app.
+
+## Live Links
+
+[BMI Calculator](https://OviSarkar62.github.io/BMI_Calculator_with_React)

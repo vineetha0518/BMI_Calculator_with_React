@@ -34,4 +34,4 @@ To run the project locally, follow these steps:
 
 ## Live Links
 
-[BMI Calculator](https://OviSarkar62.github.io/BMI_Calculator_with_React)
+The live project: [BMI Calculator](https://OviSarkar62.github.io/BMI_Calculator_with_React)

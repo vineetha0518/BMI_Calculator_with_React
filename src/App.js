@@ -66,7 +66,7 @@ function App() {
             />
           </div>
           <div>
-            <button className="btn" type="submit">
+            <button className="btn" id="btn" type="submit">
               Submit
             </button>
             <button className="btn btn-outline" onClick={reload} type="button">

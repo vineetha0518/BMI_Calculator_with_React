@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: #3b3f46;
+  background: #e27398;
 }
 
 .App {
@@ -8,14 +8,14 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  font-family: Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 .container {
   width: 400px;
   height: 450px;
   padding: 20px;
-  background: #272838;
+  background: #c188d4;
   border-radius: 40px;
   border: 2px solid #2c2c2c;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
